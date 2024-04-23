@@ -1,0 +1,1038 @@
+{
+  "totalCount": 24,
+  "items": [
+    {
+      "productType": "Physical",
+      "code": "RHZ-98618816",
+      "name": "Sesame Fino Bread",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "outline": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "path": "Bekary",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T07:10:08.8419341Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "345592089_974872156986662_3196467890562699176_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "345592089_974872156986662_3196467890562699176_n.jpg",
+              "semanticUrl": "catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "b30b5b31-f129-4cf5-a38c-d95a31c4e62f"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T07:10:09.0123313Z",
+      "modifiedDate": "2023-08-15T08:00:40.3113809Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "ae3dd0db-6cbe-4e7e-b41b-911b420ecd1a"
+    },
+    {
+      "productType": "Physical",
+      "code": "XVN-70178010",
+      "name": "Mini soiree",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "outline": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "path": "Bekary",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:07:12.6767126Z",
+      "priority": 0,
+      "images": [],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:07:12.6782251Z",
+      "modifiedDate": "2023-08-17T14:03:58.404068Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "4344e6a1-d13e-4652-823f-9d906568eef0"
+    },
+    {
+      "productType": "Physical",
+      "code": "GXT-73691613",
+      "name": "basbusa",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:23:22.6127957Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+              "semanticUrl": "catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "e56d1040-1612-4690-b871-386e16f0cd40"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:23:22.6139437Z",
+      "modifiedDate": "2023-08-15T08:24:15.5450828Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "5dc7dd49-a9fb-4f65-88c5-c15441f64272"
+    },
+    {
+      "productType": "Physical",
+      "code": "YTV-59497988",
+      "name": "basbusa",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "mainProductId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:27:49.2077165Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "77bac730-33e6-4878-b5fd-1723ad5540f5"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:27:49.2086321Z",
+      "modifiedDate": "2023-08-15T08:27:49.2086321Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "4dd67987-3fc6-40f7-b884-b2c37179957f"
+    },
+    {
+      "productType": "Physical",
+      "code": "PCF-48692018",
+      "name": "basbusa",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "mainProductId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:25:42.5942768Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+              "semanticUrl": "catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "107f941d-5a3e-4447-916b-df768e797cce"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:25:42.5954062Z",
+      "modifiedDate": "2023-08-15T08:25:42.5954062Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "bc30c7b6-6992-4def-88c3-aad596815448"
+    },
+    {
+      "productType": "Physical",
+      "code": "SMJ-44832024",
+      "name": "basbusa Nuts",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:30:35.6057813Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+              "semanticUrl": "catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "2d8fb4ab-a507-4570-9a22-95192d8276d1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:30:35.6066689Z",
+      "modifiedDate": "2023-08-15T08:30:35.6066689Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f"
+    },
+    {
+      "productType": "Physical",
+      "code": "AME-14036756",
+      "name": "basbusa Nuts",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "mainProductId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:31:50.768659Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+              "semanticUrl": "catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "56870e4a-00bd-422b-bf25-ca3546903495"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:31:50.7694788Z",
+      "modifiedDate": "2023-08-15T08:31:50.7694788Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "30d003f5-b0ad-448e-958a-d98ca5bfe7c6"
+    },
+    {
+      "productType": "Physical",
+      "code": "DGW-01248146",
+      "name": "basbusa Nuts",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "mainProductId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:33:01.2118818Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+              "semanticUrl": "catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "ae33eeab-7b42-4997-9397-581a637cc5f5"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:33:01.2128681Z",
+      "modifiedDate": "2023-08-15T08:33:01.2128681Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "d5b6ebc4-6586-4ade-b085-42c5a5efe093"
+    },
+    {
+      "productType": "Physical",
+      "code": "VHI-79757961",
+      "name": "Torta 4 Session",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 5,
+      "minQuantity": 5,
+      "startDate": "2023-08-15T08:35:21.1032932Z",
+      "priority": 5,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "258592907_4486993888081262_3484261693059747771_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "258592907_4486993888081262_3484261693059747771_n.jpg",
+              "semanticUrl": "catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "4a2e4f86-b49f-4b6c-9bc4-ba41f46c8290"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:35:21.1042265Z",
+      "modifiedDate": "2023-08-21T13:33:02.7085737Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "ac520bb5-4fcf-4eea-ae18-e669015eb17d"
+    },
+    {
+      "productType": "Physical",
+      "code": "YRF-25034058",
+      "name": "Gateau",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:38:47.1855623Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "1a41f0e1-dafd-48e1-a17a-43067b8b6dd1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:38:47.1865042Z",
+      "modifiedDate": "2023-08-15T08:38:47.1865042Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "eecc83db-6522-4904-88c6-cd38c9e67601"
+    },
+    {
+      "productType": "Physical",
+      "code": "RHZ-98618816",
+      "name": "Sesame Fino Bread",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "outline": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "path": "Bekary",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T07:10:08.8419341Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "345592089_974872156986662_3196467890562699176_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "345592089_974872156986662_3196467890562699176_n.jpg",
+              "semanticUrl": "catalog/0b4d1/RHZ-98618816/345592089_974872156986662_3196467890562699176_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "b30b5b31-f129-4cf5-a38c-d95a31c4e62f"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T07:10:09.0123313Z",
+      "modifiedDate": "2023-08-15T08:00:40.3113809Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "ae3dd0db-6cbe-4e7e-b41b-911b420ecd1a"
+    },
+    {
+      "productType": "Physical",
+      "code": "XVN-70178010",
+      "name": "Mini soiree",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "outline": "a84ca2e2-af1f-46cb-a3f5-5cedb531b4ce",
+      "path": "Bekary",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:07:12.6767126Z",
+      "priority": 0,
+      "images": [],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:07:12.6782251Z",
+      "modifiedDate": "2023-08-17T14:03:58.404068Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "4344e6a1-d13e-4652-823f-9d906568eef0"
+    },
+    {
+      "productType": "Physical",
+      "code": "GXT-73691613",
+      "name": "basbusa",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:23:22.6127957Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+              "semanticUrl": "catalog/0b4d1/GXT-73691613/246232436_4390559237724728_3810870751493800225_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "e56d1040-1612-4690-b871-386e16f0cd40"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:23:22.6139437Z",
+      "modifiedDate": "2023-08-15T08:24:15.5450828Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "5dc7dd49-a9fb-4f65-88c5-c15441f64272"
+    },
+    {
+      "productType": "Physical",
+      "code": "YTV-59497988",
+      "name": "basbusa",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "mainProductId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:27:49.2077165Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YTV-59497988/246232436_4390559237724728_3810870751493800225_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "77bac730-33e6-4878-b5fd-1723ad5540f5"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:27:49.2086321Z",
+      "modifiedDate": "2023-08-15T08:27:49.2086321Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "4dd67987-3fc6-40f7-b884-b2c37179957f"
+    },
+    {
+      "productType": "Physical",
+      "code": "PCF-48692018",
+      "name": "basbusa",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "mainProductId": "5dc7dd49-a9fb-4f65-88c5-c15441f64272",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:25:42.5942768Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "246232436_4390559237724728_3810870751493800225_n.jpg",
+              "semanticUrl": "catalog/0b4d1/PCF-48692018/246232436_4390559237724728_3810870751493800225_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "107f941d-5a3e-4447-916b-df768e797cce"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:25:42.5954062Z",
+      "modifiedDate": "2023-08-15T08:25:42.5954062Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "bc30c7b6-6992-4def-88c3-aad596815448"
+    },
+    {
+      "productType": "Physical",
+      "code": "SMJ-44832024",
+      "name": "basbusa Nuts",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:30:35.6057813Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+              "semanticUrl": "catalog/0b4d1/SMJ-44832024/347399450_636184151876776_1962608106663888446_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "2d8fb4ab-a507-4570-9a22-95192d8276d1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:30:35.6066689Z",
+      "modifiedDate": "2023-08-15T08:30:35.6066689Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f"
+    },
+    {
+      "productType": "Physical",
+      "code": "AME-14036756",
+      "name": "basbusa Nuts",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "mainProductId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:31:50.768659Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+              "semanticUrl": "catalog/0b4d1/AME-14036756/347399450_636184151876776_1962608106663888446_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "56870e4a-00bd-422b-bf25-ca3546903495"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:31:50.7694788Z",
+      "modifiedDate": "2023-08-15T08:31:50.7694788Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "30d003f5-b0ad-448e-958a-d98ca5bfe7c6"
+    },
+    {
+      "productType": "Physical",
+      "code": "DGW-01248146",
+      "name": "basbusa Nuts",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "outline": "c3ecf629-c0cb-49af-984b-05877ed411ce",
+      "path": "Western sweets",
+      "titularItemId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "mainProductId": "242f05f4-eacc-4c6e-bff1-f0891ff15f4f",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:33:01.2118818Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "347399450_636184151876776_1962608106663888446_n.jpg",
+              "semanticUrl": "catalog/0b4d1/DGW-01248146/347399450_636184151876776_1962608106663888446_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "ae33eeab-7b42-4997-9397-581a637cc5f5"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:33:01.2128681Z",
+      "modifiedDate": "2023-08-15T08:33:01.2128681Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "d5b6ebc4-6586-4ade-b085-42c5a5efe093"
+    },
+    {
+      "productType": "Physical",
+      "code": "VHI-79757961",
+      "name": "Torta 4 Session",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 5,
+      "minQuantity": 5,
+      "startDate": "2023-08-15T08:35:21.1032932Z",
+      "priority": 5,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "258592907_4486993888081262_3484261693059747771_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "258592907_4486993888081262_3484261693059747771_n.jpg",
+              "semanticUrl": "catalog/0b4d1/VHI-79757961/258592907_4486993888081262_3484261693059747771_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "4a2e4f86-b49f-4b6c-9bc4-ba41f46c8290"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:35:21.1042265Z",
+      "modifiedDate": "2023-08-21T13:33:02.7085737Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "ac520bb5-4fcf-4eea-ae18-e669015eb17d"
+    },
+    {
+      "productType": "Physical",
+      "code": "YRF-25034058",
+      "name": "Gateau",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:38:47.1855623Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "1a41f0e1-dafd-48e1-a17a-43067b8b6dd1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:38:47.1865042Z",
+      "modifiedDate": "2023-08-15T08:38:47.1865042Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "eecc83db-6522-4904-88c6-cd38c9e67601"
+    },
+    {
+      "productType": "Physical",
+      "code": "YRF-25034058",
+      "name": "Gateau",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:38:47.1855623Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "1a41f0e1-dafd-48e1-a17a-43067b8b6dd1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:38:47.1865042Z",
+      "modifiedDate": "2023-08-15T08:38:47.1865042Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "eecc83db-6522-4904-88c6-cd38c9e67601"
+    },
+    {
+      "productType": "Physical",
+      "code": "YRF-25034058",
+      "name": "Gateau",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:38:47.1855623Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "1a41f0e1-dafd-48e1-a17a-43067b8b6dd1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:38:47.1865042Z",
+      "modifiedDate": "2023-08-15T08:38:47.1865042Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "eecc83db-6522-4904-88c6-cd38c9e67601"
+    },
+    {
+      "productType": "Physical",
+      "code": "YRF-25034058",
+      "name": "Gateau",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:38:47.1855623Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "1a41f0e1-dafd-48e1-a17a-43067b8b6dd1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:38:47.1865042Z",
+      "modifiedDate": "2023-08-15T08:38:47.1865042Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "eecc83db-6522-4904-88c6-cd38c9e67601"
+    },
+    {
+      "productType": "Physical",
+      "code": "YRF-25034058",
+      "name": "Gateau",
+      "catalogId": "0b4d1da8-10e9-455d-8e64-c79de64091d0",
+      "categoryId": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "outline": "ddbecd18-e250-42fd-b749-1f4acec936a0",
+      "path": "Eastern sweets",
+      "isActive": true,
+      "isBuyable": true,
+      "trackInventory": true,
+      "maxQuantity": 0,
+      "minQuantity": 0,
+      "startDate": "2023-08-15T08:38:47.1855623Z",
+      "priority": 0,
+      "imgSrc": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+      "images": [
+        {
+          "relativeUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "url": "https://localhost:5001/assets/catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+          "sortOrder": 1,
+          "typeId": "Image",
+          "group": "images",
+          "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+          "isInherited": false,
+          "seoObjectType": "Image",
+          "seoInfos": [
+            {
+              "name": "262161194_4514870555293595_4086796223881276210_n.jpg",
+              "semanticUrl": "catalog/0b4d1/YRF-25034058/262161194_4514870555293595_4086796223881276210_n.jpg",
+              "isActive": true
+            }
+          ],
+          "id": "1a41f0e1-dafd-48e1-a17a-43067b8b6dd1"
+        }
+      ],
+      "seoObjectType": "CatalogProduct",
+      "isInherited": false,
+      "createdDate": "2023-08-15T08:38:47.1865042Z",
+      "modifiedDate": "2023-08-15T08:38:47.1865042Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "eecc83db-6522-4904-88c6-cd38c9e67601"
+    }
+  ],
+  "aggregations": []
+}

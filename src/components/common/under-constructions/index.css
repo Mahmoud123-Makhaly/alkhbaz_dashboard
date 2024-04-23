@@ -1,0 +1,9 @@
+.auth-page-content{
+  background: url("../../../assets/images/bg.jpg") top center no-repeat;
+  background-size: cover;
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+}

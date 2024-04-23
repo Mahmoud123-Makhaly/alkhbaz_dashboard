@@ -1,0 +1,270 @@
+const endpoints = {
+  auth: {
+    authorize: '/connect/token',
+    securityCurrentUser: `${process.env.NEXT_PUBLIC_API_PREFIX}/platform/security/currentuser`,
+  },
+  catalogs: {
+    list: 'catalog/catalogs/search',
+    details: 'catalog/catalogs/:id',
+    delete: 'catalog/catalogs/:id',
+    update: 'catalog/catalogs',
+    create: 'catalog/catalogs',
+  },
+  carts: {
+    list: 'carts/search',
+    details: 'carts/:id',
+  },
+  customers: {
+    list: 'contacts/search',
+    details: 'members/:id',
+    update: 'members',
+    create: 'members',
+    delete: 'members',
+  },
+  warehouses: {
+    list: 'inventory/fulfillmentcenters/search',
+    details: 'inventory/fulfillmentcenters/:id',
+    update: 'inventory/fulfillmentcenters',
+    create: 'inventory/fulfillmentcenters',
+    delete: 'inventory/fulfillmentcenters',
+  },
+  organizations: {
+    list: 'organizations/search',
+    details: 'members/:id',
+    update: 'members',
+    create: 'members',
+  },
+  employees: {
+    list: 'members/search',
+    details: 'members/:id',
+    update: 'members',
+    create: 'members',
+    delete: 'members',
+  },
+  categories: {
+    list: 'catalog/search/categories',
+    details: '/catalog/categories/:id',
+    update: 'catalog/categories',
+    create: 'catalog/categories',
+    delete: 'catalog/categories',
+  },
+  products: {
+    list: 'catalog/search/products',
+    update: 'catalog/products',
+    create: 'catalog/products',
+    details: 'catalog/products/:id',
+    delete: 'catalog/products',
+    info: 'catalog/products/:id?respGroup=Full',
+    fulfillmentCenters: 'inventory/products/:id',
+    pricesWidget: 'products/:id/:catalogId/pricesWidget',
+    prices: 'catalog/products/:id/pricelists',
+    createProductPrice: 'products/:id/prices',
+    deleteProductPrice: 'pricing/products/prices?priceIds=:id',
+  },
+  pricesList: {
+    list: 'pricing/pricelists',
+    details: `pricing/pricelists/:id`,
+    update: 'pricing/pricelists',
+    create: 'pricing/pricelists',
+    delete: 'pricing/pricelists',
+  },
+  assignments: {
+    list: 'pricing/assignments',
+    update: 'pricing/assignments',
+    create: 'pricing/assignments',
+    details: 'pricing/assignments/:id',
+    delete: 'pricing/assignments',
+  },
+  roles: {
+    list: 'platform/security/roles/search',
+    details: `platform/security/roles/:roleName`,
+    delete: 'platform/security/roles',
+    update: 'platform/security/roles',
+    create: 'platform/security/roles',
+  },
+  users: {
+    list: 'platform/security/users/search',
+    details: '/platform/security/users/id/:id',
+    update: 'platform/security/users',
+    create: 'platform/security/users/create',
+    delete: 'platform/security/users',
+    resetPassword: 'platform/security/users/:userName/resetpassword',
+  },
+  promotions: {
+    list: 'marketing/promotions/search',
+    details: 'marketing/promotions/:id',
+    update: 'marketing/promotions',
+    create: 'marketing/promotions',
+  },
+  contentItems: {
+    list: 'marketing/contentitems/search',
+    details: 'marketing/contentitems/:id',
+    update: 'marketing/contentitems',
+    create: 'marketing/contentitems',
+  },
+  contentPlaceholders: {
+    list: 'marketing/contentplaces/search',
+    details: 'marketing/contentfolders/:id',
+    update: 'marketing/contentfolders',
+    createContentPlaceholder: 'marketing/contentplaces',
+    createContentPlaceholderImage: 'assets?folderUrl=placeholders-images',
+    createContentPlaceholderFolder: 'marketing/contentfolders',
+    folderParentId: 'ContentPlace',
+  },
+  publishedContent: {
+    list: 'marketing/contentpublications/search',
+
+    details: 'marketing/contentpublications/:id',
+    update: 'marketing/contentpublications',
+    create: 'marketing/contentpublications',
+  },
+  customerSegment: {
+    list: 'customersegments/search',
+    details: 'customersegments/:id',
+    update: 'customersegments',
+    create: 'customersegments',
+  },
+  asset: {
+    defaultTree: 'assets',
+    folderDetails: 'assets',
+    delete: 'assets',
+    search: 'assets',
+    createFolder: 'assets/folder',
+    uploadFile: 'assets?folderUrl=:folderUrl',
+  },
+  stores: {
+    list: 'stores/search',
+  },
+  currency: {
+    list: 'currencies',
+  },
+  permissions: {
+    list: 'platform/security/permissions',
+  },
+  status: {
+    accountStatuses: 'platform/settings/values/TotPlatform.Other.AccountStatuses',
+    employeeStatuses: 'platform/settings/Customer.EmployeeStatuses',
+    contactStatuses: 'platform/settings/Customer.ContactStatuses',
+    orderStatuses: 'platform/settings/values/Order.Status',
+    imageCategories: 'platform/settings/values/Catalog.ImageCategories',
+    shipmentStatuses: 'platform/settings/values/Shipment.Status',
+  },
+  languages: {
+    list: 'platform/settings/values/TotPlatform.Core.General.Languages',
+  },
+  AccountTypes: {
+    list: 'platform/settings/TotPlatform.Platform.Security.AccountTypes',
+  },
+  tax: {
+    taxType: 'platform/settings/values/TotPlatform.Core.General.TaxTypes',
+  },
+  orders: {
+    list: 'order/customerOrders/search',
+    details: 'order/customerOrders/:id',
+    update: 'order/customerOrders',
+    changes: 'order/customerOrders/searchChanges',
+    notification: 'notifications/journal',
+    delete: 'order/customerOrders',
+    sync: 'integration/ordersync/:id',
+    recalculate: 'order/customerOrders/recalculate',
+  },
+  dashboard: {
+    orderStatistics: 'order/orderStatistics',
+    erpOrderStatistics: 'order/erpOrderStatistics',
+    orderStatusStatistics: 'order/byStatus',
+    orderFulfillmentStatistics: 'order/byFulfillment',
+    orderProductCategoriesStatistics: 'order/byCategories',
+    orderProductStatistics: 'order/byProducts',
+    dailyStatistics: 'order/dailyStatistics',
+    monthlyStatistics: 'order/monthlyStatistics',
+  },
+  countries: {
+    list: 'platform/common/countries',
+  },
+  reviews: {
+    list: 'customerReviews/reviewList',
+  },
+  packageTypes: {
+    list: 'packageTypes',
+  },
+  weightUnits: {
+    list: 'platform/settings/values/TotPlatform.Core.General.WeightUnits',
+  },
+  measureUnits: {
+    list: 'platform/settings/values/TotPlatform.Core.General.MeasureUnits',
+  },
+  editorialReviewTypes: {
+    list: 'platform/settings/values/Catalog.EditorialReviewTypes',
+  },
+  logs: {
+    list: 'platform/changelog/search',
+  },
+  dynamicProperties: {
+    list: 'platform/dynamic/properties/search',
+    dictionaryItems: 'platform/dynamic/types/:objectType/properties/:propertyId/dictionaryitems',
+    catalogDictionaryItems: 'catalog/dictionaryitems/search',
+  },
+  dictionaries: {
+    ingredients: {
+      list: 'catalog/dictionaryitems/search',
+      add: 'catalog/dictionaryitems',
+      edit: 'catalog/dictionaryitems',
+      delete: 'catalog/dictionaryitems',
+    },
+    orderSource: {
+      list: 'platform/dynamic/types/TotPlatform.OrdersModule.Core.Model.CustomerOrder/properties/:propertyId/dictionaryitems',
+      add: 'platform/dynamic/types/TotPlatform.OrdersModule.Core.Model.CustomerOrder/properties/:propertyId/dictionaryitems',
+      edit: 'platform/dynamic/types/TotPlatform.OrdersModule.Core.Model.CustomerOrder/properties/:propertyId/dictionaryitems',
+      delete:
+        'platform/dynamic/types/TotPlatform.OrdersModule.Core.Model.CustomerOrder/properties/:propertyId/dictionaryitems',
+    },
+  },
+  vendors: {
+    list: 'members/search',
+  },
+  coupons: {
+    list: 'marketing/promotions/coupons/search',
+  },
+  topSales: {
+    ProductsSales: 'order/byProductsSales',
+  },
+  reports: {
+    orderSourceStatistics: 'order/bySource',
+    customerCountStatistics: 'customerorder/customerCountStatistics',
+    topCustomerCountStatistics: 'customerorder/topCustomerCountStatistics',
+    topCustomerSalesStatistics: 'customerorder/topCustomerSalesStatistics',
+    topCustomerByCountStatistics: 'customerorder/topCustomerByCountStatistics',
+    topCustomerBySalesStatistics: 'customerorder/topCustomerBySalesStatistics',
+    sales: {
+      discounts: {
+        orderStatistics: 'order/orderDiscountStatisticsSales',
+        orderStatusStatistics: 'order/discountByStatus',
+        orderFulfillmentStatistics: 'order/discountByFulfillment',
+        dailyStatistics: 'order/discountDailyStatistics',
+        monthlyStatistics: 'order/discountMonthlyStatistics',
+        orderBySource: 'order/discountBySource',
+        orderByPaymentMethod: 'order/discountByPaymentMethod',
+      },
+      taxes: {
+        orderStatistics: 'order/orderTaxStatisticsSales',
+        orderStatusStatistics: 'order/taxByStatus',
+        orderFulfillmentStatistics: 'order/taxByFulfillment',
+        dailyStatistics: 'order/taxDailyStatistics',
+        monthlyStatistics: 'order/taxMonthlyStatistics',
+        orderBySource: 'order/taxBySource',
+        orderByPaymentMethod: 'order/taxByPaymentMethod',
+      },
+      shipments: {
+        orderStatistics: 'order/orderShipmentStatisticsSales',
+        orderStatusStatistics: 'order/shipmentByStatus',
+        orderFulfillmentStatistics: 'order/shipmentByFulfillment',
+        dailyStatistics: 'order/shipmentDailyStatistics',
+        monthlyStatistics: 'order/shipmentMonthlyStatistics',
+        orderBySource: 'order/shipmentBySource',
+        orderByPaymentMethod: 'order/shipmentByPaymentMethod',
+      },
+    },
+  },
+};
+
+export default endpoints;

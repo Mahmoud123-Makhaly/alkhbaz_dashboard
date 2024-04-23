@@ -1,0 +1,38 @@
+# generated or imported files
+package-deps.json
+CHANGELOG.*
+version.ts
+*.api.md
+api-report.md
+*.scss.ts
+_*.scss
+yarn.lock
+.next
+
+# generated folders
+node_modules
+# looks like prettier doesn't process this file as advertised
+**/lib/**
+!tools/**/lib/**
+lib-amd
+lib-esm
+lib-commonjs
+dist
+temp
+common/changes
+common/scripts
+coverage
+etc
+change
+__snapshots__
+.yarn/
+
+# package specific files
+
+
+# template files which actually follow a different language's formatting
+*.hbs
+*.css.ts
+*.css
+tsconfig.base.json
+CODEOWNERS

@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  al-khbaz-dashboard-env-staging:
+    build:
+      context: ../../
+      dockerfile: docker/staging/Dockerfile
+    image: al-khbaz-dashboard-env-staging
+    environment:
+      - NEXTAUTH_SECRET=$NEXT_AUTH_SECRET
+      - NEXTAUTH_URL=$ALKHBAZ_DASHBOARED_STAGING_NEXT_AUTH_URL
+    ports:
+      - ${ALKHBAZ_DASHBOARED_STAGING_EXPOSED_PORT}:8090

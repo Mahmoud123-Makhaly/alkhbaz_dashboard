@@ -1,0 +1,317 @@
+[
+  {
+    "associationType": "string",
+    "name": "dynmic1",
+    "description": "desc1",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic2",
+    "description": "desc2",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic3",
+    "description": "desc3",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic4",
+    "description": "desc4",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic5",
+    "description": "desc5",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic6",
+    "description": "desc6",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic7",
+    "description": "desc7",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic8",
+    "description": "desc8",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic9",
+    "description": "desc9",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic19",
+    "description": "desc19",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic11",
+    "description": "des11",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic12",
+    "description": "desc12",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic13",
+    "description": "desc13",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic14",
+    "description": "desc14",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic15",
+    "description": "desc15",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic16",
+    "description": "desc16",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic17",
+    "description": "desc17",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic18",
+    "description": "desc18",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic19",
+    "description": "desc19",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic20",
+    "description": "desc20",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  },
+  {
+    "associationType": "string",
+    "name": "dynmic21",
+    "description": "desc21",
+    "startDate": "2023-08-30T13:42:22.772Z",
+    "endDate": "2023-08-30T13:42:22.772Z",
+    "isActive": true,
+    "storeId": "string",
+    "priority": 0,
+    "outerId": "string",
+    "expressionTree": {
+      "availableChildren": [{}],
+      "children": [{}]
+    }
+  }
+]

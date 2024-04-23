@@ -1,0 +1,20 @@
+[
+  {
+    "pricelistId": "8b67aeb1-4dfe-4ed7-9893-d4904f05b391",
+    "pricelist": null,
+    "currency": "4",
+    "productId": "1b784c83-3149-4d5f-9fb9-aa2cb5b0905f",
+    "sale": 50,
+    "list": 90,
+    "minQuantity": 3,
+    "startDate": null,
+    "endDate": null,
+    "effectiveValue": 50,
+    "outerId": null,
+    "createdDate": "2023-09-20T16:17:31.5643456Z",
+    "modifiedDate": "2023-09-20T16:17:31.5643456Z",
+    "createdBy": "admin",
+    "modifiedBy": "admin",
+    "id": "0d4310d7-6c57-45e0-9e58-7afb74a4c677"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "totalCount": 3,
+  "results": [
+    {
+      "name": "price1",
+      "description": "this is price 1",
+      "currency": "EGP",
+      "outerId": null,
+      "priority": 0,
+      "prices": null,
+      "assignments": [
+        {
+          "catalogId": "d92eabd8-6c12-4676-b676-6ee5d4b61399",
+          "storeId": null,
+          "pricelistId": null,
+          "pricelist": null,
+          "name": "qqq",
+          "description": "qsqsq",
+          "priority": 1,
+          "startDate": "2023-08-10T21:00:00Z",
+          "endDate": "2023-08-06T21:00:00Z",
+          "dynamicExpression": null,
+          "outerId": null,
+          "createdDate": "0001-01-01T00:00:00Z",
+          "modifiedDate": null,
+          "createdBy": null,
+          "modifiedBy": null,
+          "id": "1bd8f52e-0e53-4375-a83b-4f4282cf17ad"
+        }
+      ],
+      "createdDate": "2023-08-24T06:40:21.0588135Z",
+      "modifiedDate": "2023-08-24T06:40:21.0588135Z",
+      "createdBy": "al_khbaz",
+      "modifiedBy": "al_khbaz",
+      "id": "90bc9af3-9d8a-44f5-a68c-fe0ce0a433e1"
+    },
+    {
+      "name": "price2",
+      "description": "this is price2",
+      "currency": "EGP",
+      "outerId": null,
+      "priority": 0,
+      "prices": null,
+      "assignments": [],
+      "createdDate": "2023-08-24T06:08:21.3848205Z",
+      "modifiedDate": "2023-08-24T06:40:00.1607112Z",
+      "createdBy": "al_khbaz",
+      "modifiedBy": "al_khbaz",
+      "id": "06f38827-9e97-4ac7-87f7-e9af367d5a64"
+    },
+    {
+      "name": "Food-Price",
+      "description": null,
+      "currency": "EGP",
+      "outerId": null,
+      "priority": 0,
+      "prices": null,
+      "assignments": [
+        {
+          "catalogId": null,
+          "storeId": "alkhbaz",
+          "pricelistId": null,
+          "pricelist": null,
+          "name": "PriceList",
+          "description": null,
+          "priority": 1,
+          "startDate": null,
+          "endDate": null,
+          "dynamicExpression": null,
+          "outerId": null,
+          "createdDate": "0001-01-01T00:00:00Z",
+          "modifiedDate": null,
+          "createdBy": null,
+          "modifiedBy": null,
+          "id": "7f42a75f-2c42-4cad-bc06-d2c04bcdf4d3"
+        },
+        {
+          "catalogId": null,
+          "storeId": "alkhbaz",
+          "pricelistId": null,
+          "pricelist": null,
+          "name": "test",
+          "description": "ssscsc",
+          "priority": 1,
+          "startDate": "2023-08-07T21:00:00Z",
+          "endDate": "2023-08-06T21:00:00Z",
+          "dynamicExpression": null,
+          "outerId": null,
+          "createdDate": "0001-01-01T00:00:00Z",
+          "modifiedDate": null,
+          "createdBy": null,
+          "modifiedBy": null,
+          "id": "81b11840-8655-4127-96c6-b62f0c478c7c"
+        }
+      ],
+      "createdDate": "2023-08-15T08:39:56.8778417Z",
+      "modifiedDate": "2023-08-15T08:39:56.8778417Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "57d63ece-6e9c-4971-b11e-170254d69c15"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.file-manager-menu li .leaf .active
+{color: #0ab39c;}
+[data-layout-dir=rtl] .btn-link {
+  left: 0;
+  right: unset !important;
+}

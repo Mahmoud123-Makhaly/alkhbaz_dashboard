@@ -1,0 +1,29 @@
+.prod-thumb-swiper .swiper-button-next,
+.prod-thumb-swiper .swiper-button-prev {
+  border-radius: 0;
+  height: 40px !important
+}
+
+.prod-thumb-swiper .swiper-button-prev,
+.prod-thumb-swiper .swiper-button-next {
+  background-color: white;
+  margin-top: calc(3px - (var(--swiper-navigation-size) / 2));
+}
+
+.prod-thumb-swiper .swiper-button-next,
+.prod-thumb-swiper .swiper-rtl .swiper-button-prev {
+  right: var(--swiper-navigation-sides-offset, 0);
+}
+
+.prod-thumb-swiper .swiper-button-prev,
+.prod-thumb-swiper .swiper-rtl .swiper-button-next {
+  left: var(--swiper-navigation-sides-offset, 0);
+}
+
+.prod-thumb-swiper .swiper-button-prev.swiper-button-disabled, .prod-thumb-swiper .swiper-button-next.swiper-button-disabled {
+    opacity: 1;
+}
+
+.prod-thumb-swiper .swiper-button-next.swiper-button-disabled::after, .prod-thumb-swiper .swiper-button-prev.swiper-button-disabled::after{
+  color: var(--vz-gray-600);
+}

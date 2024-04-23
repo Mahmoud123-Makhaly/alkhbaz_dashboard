@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  al-khbaz-dashboard-env-production:
+    build:
+      context: ../../
+      dockerfile: docker/production/Dockerfile
+    image: al-khbaz-dashboard-env-production
+    environment:
+      - NEXTAUTH_SECRET=$NEXT_AUTH_SECRET
+      - NEXTAUTH_URL=$ALKHBAZ_DASHBOARED_PRODUCTION_NEXT_AUTH_URL
+    ports:
+      - ${ALKHBAZ_DASHBOARED_PRODUCTION_EXPOSED_PORT}:8090

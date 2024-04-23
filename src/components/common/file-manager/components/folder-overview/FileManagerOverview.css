@@ -1,0 +1,35 @@
+.text--vz-info {
+  --vz-text-opacity: 1;
+  color: rgba(var(--vz-secondary-rgb), var(--vz-text-opacity)) !important;
+}
+
+.text--vz-danger {
+  --vz-text-opacity: 1;
+  color: rgba(var(--vz-warning-rgb), var(--vz-text-opacity)) !important;
+}
+
+.text--vz-primary {
+  --vz-text-opacity: 1;
+  color: rgba(var(--vz-primary-rgb), var(--vz-text-opacity)) !important;
+}
+
+.text--vz-success {
+  --vz-text-opacity: 1;
+  color: rgba(var(--vz-success-rgb), var(--vz-text-opacity)) !important;
+}
+
+.bg-soft--vz-info {
+  background-color: rgba(53, 119, 241, 0.18) !important;
+}
+
+.bg-soft--vz-danger {
+  background-color: rgba(247, 184, 75, 0.18) !important;
+}
+
+.bg-soft--vz-primary {
+  background-color: rgba(64, 81, 137, 0.18) !important;
+}
+
+.bg-soft--vz-success {
+  background-color: rgba(10, 179, 156, 0.18) !important;
+}

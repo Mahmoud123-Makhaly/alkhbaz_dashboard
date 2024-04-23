@@ -1,0 +1,31 @@
+
+.file-manager-table table tr th{
+  background-color: rgba(244, 246, 247, 0.923) !important;
+padding: 0.75rem 1rem !important;
+}
+.file-manager-table table tr td{
+  padding: 0.5rem 1rem !important;
+}
+.file-manager-table button.p-paginator-page.p-paginator-element{
+  font-size: 15px;
+}
+.file-manager-menu li a[data-bs-toggle=collapse]:after {
+  position: absolute;
+  left: 95%;
+  font-size: large;
+}
+[data-layout-dir=rtl] .file-manager-menu li a[data-bs-toggle=collapse]:after {
+  right: 95%;
+}
+.file-manager-menu li a[aria-expanded=false]:after {
+  content: "\F0142";
+  font-family: 'Material Design Icons';
+}
+[data-layout-dir=rtl] .file-manager-menu li a[aria-expanded=false]:after {
+  content: "\F0141";
+  font-family: 'Material Design Icons';
+}
+.file-manager-menu li a[aria-expanded=true]:after {
+  content: "\F0140";
+  font-family: 'Material Design Icons';
+}

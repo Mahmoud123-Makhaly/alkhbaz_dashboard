@@ -1,0 +1,50 @@
+{
+  "totalCount": 3,
+  "results": [
+    {
+      "id": "1cfcb6a9-8c88-4e03-aa37-40dccda46d0c",
+      "entityId": "1b784c83-3149-4d5f-9fb9-aa2cb5b0905f",
+      "entityName": "bbb",
+      "entityType": "Product",
+      "productName": "bbb",
+      "reviewStatus": "New",
+      "reviewStatusId": 0,
+      "title": "rev title2",
+      "review": "this is good2",
+      "rating": 2,
+      "userName": "name1",
+      "storeName": "Alkhbaz",
+      "createdDate": "2023-09-27T14:48:48.423Z"
+    },
+    {
+      "id": "92a1e8b5-3814-41fd-adf9-163dc19de485",
+      "entityId": "1b784c83-3149-4d5f-9fb9-aa2cb5b0905f",
+      "entityName": "bbb",
+      "entityType": "Product",
+      "productName": "bbb",
+      "reviewStatus": "New",
+      "reviewStatusId": 0,
+      "title": "rev title2",
+      "review": "this is good2",
+      "rating": 5,
+      "userName": "hamoooda12",
+      "storeName": "Alkhbaz",
+      "createdDate": "2023-09-27T14:48:48.423Z"
+    },
+    {
+      "id": "99ce3457-043d-40de-80d6-bbbdfbd46761",
+      "entityId": "1b784c83-3149-4d5f-9fb9-aa2cb5b0905f",
+      "entityName": "bbb",
+      "entityType": "Product",
+      "productName": "bbb",
+      "reviewStatus": "New",
+      "reviewStatusId": 0,
+      "title": "rev title",
+      "review": "this is good",
+      "rating": 4,
+      "userName": "abualhamd",
+      "storeName": "Alkhbaz",
+      "createdDate": "2023-09-27T14:48:48.423Z"
+    }
+  ]
+}

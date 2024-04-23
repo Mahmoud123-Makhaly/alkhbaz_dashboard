@@ -1,0 +1,47 @@
+{
+  "totalCount": 0,
+  "results": [
+    {
+      "isAllowCombiningWithSelf": true,
+      "dynamicExpression": {
+        "all": true,
+        "not": true,
+        "id": "string",
+        "availableChildren": [
+          {
+            "id": "string",
+            "availableChildren": ["string"],
+            "children": ["string"]
+          }
+        ],
+        "children": [
+          {
+            "id": "string",
+            "availableChildren": ["string"],
+            "children": ["string"]
+          }
+        ]
+      },
+      "store": "string",
+      "storeIds": ["string"],
+      "name": "string",
+      "type": "string",
+      "isActive": true,
+      "priority": 0,
+      "isExclusive": true,
+      "hasCoupons": true,
+      "description": "string",
+      "maxUsageCount": 0,
+      "maxUsageOnOrder": 0,
+      "maxPersonalUsageCount": 0,
+      "startDate": "2023-08-30T12:03:29.216Z",
+      "endDate": "2023-08-30T12:03:29.216Z",
+      "outerId": "string",
+      "createdDate": "2023-08-30T12:03:29.216Z",
+      "modifiedDate": "2023-08-30T12:03:29.216Z",
+      "createdBy": "string",
+      "modifiedBy": "string",
+      "id": "string"
+    }
+  ]
+}

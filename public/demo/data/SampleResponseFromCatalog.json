@@ -1,0 +1,1055 @@
+{
+  "totalCount": 42,
+  "results": [
+    {
+      "name": "Clothing",
+      "isVirtual": false,
+      "outerId": "c87ce606-eb60-469c-a714-62c7da2cba53",
+      "defaultLanguage": {
+        "catalogId": "0259857d-a0c5-4bdd-94f0-a61b9862e1bb",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "1cb337f0-1980-4884-90cf-b31c28d057d6"
+      },
+      "languages": [
+        {
+          "catalogId": "a217879b-58de-477a-b8c6-340843224c51",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "81e5435f-73b6-49c3-9422-8e66018c551e"
+        },
+        { "catalogId": "688", "isDefault": false, "languageCode": "zh-CN", "id": "706" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "614"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": false,
+      "outerId": "dbc807cc-2356-485f-91c2-43edf307c336",
+      "defaultLanguage": {
+        "catalogId": "7dcb58b8-ac92-4709-85c9-aa8daa8ea1f5",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "c82ddef7-5e16-4548-b2bc-741692ba415d"
+      },
+      "languages": [
+        {
+          "catalogId": "33d281dd-b0d8-4107-9b5d-4f5f67c87ffb",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "35e6f41b-e4fe-490c-8aa1-f60f4a04dabf"
+        },
+        { "catalogId": "607", "isDefault": false, "languageCode": "fr-FR", "id": "760" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "236"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": false,
+      "outerId": "0a7bf054-f7ca-4c9f-87f3-63ab8abfc121",
+      "defaultLanguage": {
+        "catalogId": "9afb5b5c-e0da-4832-b425-92348867822d",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "7b1a250e-78b3-48a6-a31c-1868ec4a8f1a"
+      },
+      "languages": [
+        {
+          "catalogId": "2a9bc86e-4ef9-4bc2-9730-a869b83759be",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "497e81af-d38b-4610-8347-dfaf27e55250"
+        },
+        { "catalogId": "276", "isDefault": false, "languageCode": "zh-CN", "id": "50" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "470"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "800a3a80-f0df-47d7-99b7-8490190aba73",
+      "defaultLanguage": {
+        "catalogId": "8759e837-d515-4aae-bf6c-4052af9288a5",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "d889e997-d2b1-4389-bf7e-842daf08f4fe"
+      },
+      "languages": [
+        {
+          "catalogId": "0e9fbd09-84f7-404b-b500-f29abdf5fb6c",
+          "isDefault": true,
+          "languageCode": "fr-FR",
+          "id": "7f2882b6-8c4e-4b2d-a57f-50b656c18b35"
+        },
+        { "catalogId": "141", "isDefault": false, "languageCode": "fr-FR", "id": "860" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "707"
+    },
+    {
+      "name": "Food",
+      "isVirtual": false,
+      "outerId": "62dff4a6-20b9-4bbe-8060-ead8ee5b4326",
+      "defaultLanguage": {
+        "catalogId": "4bb1b0e8-87ec-46ef-8ad0-ed01ec76cd56",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "a490a1f8-eb97-41c4-a404-ec545c13c87d"
+      },
+      "languages": [
+        {
+          "catalogId": "a9425bee-70b6-4811-8026-7ebce59e5bd9",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "e647cb3e-083e-4e7d-931c-b96bdccfd275"
+        },
+        { "catalogId": "759", "isDefault": false, "languageCode": "en-US", "id": "482" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "428"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": true,
+      "outerId": "fd56ed37-0749-4f85-a9f1-b616be2a17aa",
+      "defaultLanguage": {
+        "catalogId": "5887e7be-f3d6-4808-be7c-c7df906b196b",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "562b92ed-933b-4efd-ba26-cfae938445d7"
+      },
+      "languages": [
+        {
+          "catalogId": "bbd75a70-6a8d-4c4b-ada4-f9dc0e364f28",
+          "isDefault": true,
+          "languageCode": "es-ES",
+          "id": "79cc20f6-4ad0-40f1-b321-f4253f9c1026"
+        },
+        { "catalogId": "14", "isDefault": false, "languageCode": "de-DE", "id": "764" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "500"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "b637d2bc-8e26-477e-9cc2-ca45618f91b1",
+      "defaultLanguage": {
+        "catalogId": "8f6be201-cab4-4381-8990-5bd38b1d7aab",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "c611e738-17eb-4c18-91f7-f9e9eb7679fd"
+      },
+      "languages": [
+        {
+          "catalogId": "bf28577d-5d52-49cd-9e02-7a67bb6d17ae",
+          "isDefault": true,
+          "languageCode": "es-ES",
+          "id": "faa2d6e5-f265-4ece-967e-7aa4fb6a1eee"
+        },
+        { "catalogId": "292", "isDefault": false, "languageCode": "fr-FR", "id": "406" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "27"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": true,
+      "outerId": "b01f7474-0d5c-4220-b5ae-dc74ee0e5f80",
+      "defaultLanguage": {
+        "catalogId": "f132447e-d4b1-477d-b1d8-5c36b3d8d9af",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "0f65645e-d043-477c-a532-bba6ec1c8a99"
+      },
+      "languages": [
+        {
+          "catalogId": "a2629b89-9b58-4e28-a89a-e39cc6785735",
+          "isDefault": true,
+          "languageCode": "es-ES",
+          "id": "26d9e9ad-e4d6-4eeb-8f6b-471793c76fca"
+        },
+        { "catalogId": "228", "isDefault": false, "languageCode": "en-US", "id": "827" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "275"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": true,
+      "outerId": "46bd8ebb-3411-4835-a036-bec80238ccbb",
+      "defaultLanguage": {
+        "catalogId": "5e921b48-e193-49cd-a4bd-628bee1be433",
+        "isDefault": true,
+        "languageCode": "es-ES",
+        "id": "e4b66c58-48c6-4967-a507-5436a281049f"
+      },
+      "languages": [
+        {
+          "catalogId": "3acbb758-0801-4d07-961e-5ab0c93ff887",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "9ee796e0-d24a-48e2-9432-162b67510680"
+        },
+        { "catalogId": "586", "isDefault": false, "languageCode": "zh-CN", "id": "447" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "675"
+    },
+    {
+      "name": "Food",
+      "isVirtual": true,
+      "outerId": "ebeb2f2a-4519-4810-b612-9104296aee50",
+      "defaultLanguage": {
+        "catalogId": "0096ddec-d9a9-4f88-9019-d1adf2e62a84",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "bcd24e7f-c157-4f1f-b7ce-5344f191716b"
+      },
+      "languages": [
+        {
+          "catalogId": "e5f33d9d-1def-4799-b635-70acb3e29f66",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "a62d724e-ea94-4075-af5a-871bd00fcc32"
+        },
+        { "catalogId": "793", "isDefault": false, "languageCode": "es-ES", "id": "746" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "719"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": true,
+      "outerId": "8d268275-9f7d-43f1-a7df-2f538db9860f",
+      "defaultLanguage": {
+        "catalogId": "ce7d0159-22ef-4615-899d-408af486dc91",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "2112de33-6726-4c9a-9897-ad5ac33c067c"
+      },
+      "languages": [
+        {
+          "catalogId": "8d8eaeaf-0050-449d-b801-577a3d20a755",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "b3229383-19cc-4ee4-87ff-d555d3a4ca02"
+        },
+        { "catalogId": "529", "isDefault": false, "languageCode": "fr-FR", "id": "280" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "473"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": true,
+      "outerId": "a72e978b-7e22-46b5-8a2c-b2b7ddd555ca",
+      "defaultLanguage": {
+        "catalogId": "75a99265-00b0-4332-bb1f-f6f81b808b4b",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "badf7b7f-63ed-4bd3-b74d-324ea95e38e4"
+      },
+      "languages": [
+        {
+          "catalogId": "4b6d7c8b-b0a7-4362-a839-9f8c342a0654",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "16795904-a547-4b22-a4d1-21c7ebc990c7"
+        },
+        { "catalogId": "653", "isDefault": false, "languageCode": "de-DE", "id": "316" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "81"
+    },
+    {
+      "name": "Food",
+      "isVirtual": false,
+      "outerId": "b6cba027-8501-4b84-916e-a51a7ccfd93d",
+      "defaultLanguage": {
+        "catalogId": "c132c6b6-cdbf-45f7-b874-68ac3d33c4e7",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "256f133c-eb52-4606-b019-ac7b5b5c6b59"
+      },
+      "languages": [
+        {
+          "catalogId": "b1ca8911-0e7f-4bf8-bc84-76ce05db28c7",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "4c14f4da-e5a6-4757-89fb-26b258647a19"
+        },
+        { "catalogId": "85", "isDefault": false, "languageCode": "de-DE", "id": "574" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "839"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": true,
+      "outerId": "068e4825-749c-4197-8579-1ed26cd5ec9d",
+      "defaultLanguage": {
+        "catalogId": "00fe5561-c52c-43c4-812b-4d5d6dd2dfb1",
+        "isDefault": true,
+        "languageCode": "es-ES",
+        "id": "d168af1d-50ef-4c95-87c0-bd7defff3a7c"
+      },
+      "languages": [
+        {
+          "catalogId": "827373c8-c55f-4a55-b7ae-da9705e80138",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "dd490676-6177-49c8-ab2c-2fc3cec3b4ce"
+        },
+        { "catalogId": "725", "isDefault": false, "languageCode": "fr-FR", "id": "133" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "39"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "cb6c18a2-5204-4969-bb46-b171ceca25bf",
+      "defaultLanguage": {
+        "catalogId": "baab0efc-8315-4d9b-ab75-555e4dc92a9c",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "f76af291-1e37-47e1-902a-8aea4294ae7c"
+      },
+      "languages": [
+        {
+          "catalogId": "c6d8e447-94e4-4fd8-8fb0-e3c6a27963e6",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "0ab94889-0342-42a4-994e-d9d0cde3c7db"
+        },
+        { "catalogId": "358", "isDefault": false, "languageCode": "en-US", "id": "977" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "853"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": false,
+      "outerId": "98f283e3-4be9-461a-a947-26e333d413f9",
+      "defaultLanguage": {
+        "catalogId": "24b28d0d-c3e1-43ce-bcd5-12cde087c4b6",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "11b4745e-0c76-498c-94e3-52b6d8febd64"
+      },
+      "languages": [
+        {
+          "catalogId": "334d7a8b-c798-42dc-8183-6e74f8847683",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "73457b96-1e12-43c3-ae4a-afaab6d9b897"
+        },
+        { "catalogId": "711", "isDefault": false, "languageCode": "en-US", "id": "772" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "220"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": false,
+      "outerId": "fc63de42-617e-49e0-86bd-1c10bfface0a",
+      "defaultLanguage": {
+        "catalogId": "8451df48-14e3-4054-acfa-6e79a40e88c8",
+        "isDefault": true,
+        "languageCode": "es-ES",
+        "id": "b5d7054a-c750-49c1-a0c1-c82d88bb2595"
+      },
+      "languages": [
+        {
+          "catalogId": "587819f9-1273-4a9c-91c5-74ccb2c2ce68",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "df63bd41-2651-457b-9fd6-48bce50d340f"
+        },
+        { "catalogId": "64", "isDefault": false, "languageCode": "zh-CN", "id": "603" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "818"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": false,
+      "outerId": "48b53b29-0739-40f3-99bf-5c9e05b165e4",
+      "defaultLanguage": {
+        "catalogId": "d9a9d00e-d8f2-49ba-8628-4e0ace55a1ff",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "510eab44-a4a8-435c-b265-2f0b3b32bf2f"
+      },
+      "languages": [
+        {
+          "catalogId": "a841ad36-4e9a-464d-a6a2-8341bb53208d",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "f97dee47-b9d9-4b62-9c6b-f5e96b2b408a"
+        },
+        { "catalogId": "808", "isDefault": false, "languageCode": "fr-FR", "id": "611" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "320"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "4ad1871c-1ebb-44b0-bb3c-3f6482b24dc0",
+      "defaultLanguage": {
+        "catalogId": "fce34da6-973d-418f-943c-a6f55172f319",
+        "isDefault": true,
+        "languageCode": "es-ES",
+        "id": "24cba4e4-f379-4f6c-82cb-abc29c47f023"
+      },
+      "languages": [
+        {
+          "catalogId": "b67cc6f5-739e-4362-a80b-b65986c3e46d",
+          "isDefault": true,
+          "languageCode": "fr-FR",
+          "id": "cf3ec037-6754-4562-a495-71dfdb17059e"
+        },
+        { "catalogId": "791", "isDefault": false, "languageCode": "en-US", "id": "24" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "802"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": true,
+      "outerId": "2b3654c0-5dbf-48c2-8a19-b16e8cfc8f97",
+      "defaultLanguage": {
+        "catalogId": "61305be2-bd10-498d-a595-cb3545cdc317",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "1e628452-95fb-4c92-92ed-510b1013b520"
+      },
+      "languages": [
+        {
+          "catalogId": "3e32c65e-8123-47e5-afbb-4b37effabc65",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "12324dac-4bf7-4edf-88b7-822f94eb2913"
+        },
+        { "catalogId": "205", "isDefault": false, "languageCode": "de-DE", "id": "370" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "498"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": false,
+      "outerId": "f2e8ae31-9478-4d17-aec9-4329136d45a8",
+      "defaultLanguage": {
+        "catalogId": "f91f3a1c-b43d-40ef-a5eb-7c82802d95f3",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "01fc74cb-2deb-4b66-a964-9fa8520d3ed8"
+      },
+      "languages": [
+        {
+          "catalogId": "2c71d20c-5e8c-46f4-8a5e-14d716c91d5a",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "d94f92f7-4411-4516-affe-672a65ab3c3f"
+        },
+        { "catalogId": "831", "isDefault": false, "languageCode": "de-DE", "id": "496" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "272"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": true,
+      "outerId": "91704437-47ae-4eb3-af57-b4661569d1ba",
+      "defaultLanguage": {
+        "catalogId": "3a73e753-9876-48d3-aba1-c64b1e3579f1",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "f2681113-1465-4488-8de5-6032247120e4"
+      },
+      "languages": [
+        {
+          "catalogId": "8cd124b2-9601-4798-9640-7946d215e77e",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "590e5ba1-5ce4-4962-9d81-ad79149a7dc2"
+        },
+        { "catalogId": "326", "isDefault": false, "languageCode": "de-DE", "id": "990" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "52"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": true,
+      "outerId": "ddefe8be-cc9d-441a-9dd6-598fab7bad58",
+      "defaultLanguage": {
+        "catalogId": "78aa28f3-3f9d-4536-8ac8-b68c8a99332e",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "ed7c793b-c9c5-4ff8-856c-791e28ca6fce"
+      },
+      "languages": [
+        {
+          "catalogId": "4bc23c38-30b7-4b0f-98d9-6e2c2fac588a",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "3c7ff7fc-0122-4b46-9a43-2c415e593a3e"
+        },
+        { "catalogId": "452", "isDefault": false, "languageCode": "de-DE", "id": "109" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "203"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": true,
+      "outerId": "316b1112-77d3-4bba-929e-c169bf08480e",
+      "defaultLanguage": {
+        "catalogId": "2c253cab-9ed3-4e42-927b-180b39599307",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "1843544c-774f-4bd4-b222-607da7c856cc"
+      },
+      "languages": [
+        {
+          "catalogId": "072f186d-365e-437a-a88a-f56f6b1198ad",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "d469b4ea-4e98-4806-94a7-767ff6f727b5"
+        },
+        { "catalogId": "391", "isDefault": false, "languageCode": "fr-FR", "id": "718" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "687"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": true,
+      "outerId": "001d7b92-226c-4712-a365-bca0584b8723",
+      "defaultLanguage": {
+        "catalogId": "f695ca14-d728-4c20-a2f8-28736c0dd936",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "25a9f880-67d2-470a-a426-ea28d02a94dd"
+      },
+      "languages": [
+        {
+          "catalogId": "debd6305-2409-42ec-b590-2d26a1c32f7d",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "32a229f8-4435-4cf5-8291-25656407ed17"
+        },
+        { "catalogId": "692", "isDefault": false, "languageCode": "de-DE", "id": "48" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "464"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "e103e8f5-f2c8-4626-8b19-a3c4cd184ac4",
+      "defaultLanguage": {
+        "catalogId": "cc1b4742-2497-4e8c-8f9c-1907d9776f5d",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "fb0d054b-0b3f-4c3d-b783-a4ebd31674b3"
+      },
+      "languages": [
+        {
+          "catalogId": "43bd6e55-e933-4611-b29e-ffded04a698a",
+          "isDefault": true,
+          "languageCode": "es-ES",
+          "id": "c40e5aa5-9789-488c-8303-6df1ffd7b4f7"
+        },
+        { "catalogId": "414", "isDefault": false, "languageCode": "zh-CN", "id": "607" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "796"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "1e61e49a-5243-48da-a8f9-199eb82edd29",
+      "defaultLanguage": {
+        "catalogId": "10e49fa7-16df-46d0-a260-0985c9d79431",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "19a13617-2976-4158-ad6b-05a72536ec8a"
+      },
+      "languages": [
+        {
+          "catalogId": "5e7e5a9f-b1b2-4aec-af0a-7d61d6e97c6e",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "62fc2f6c-57d3-4e18-b72d-85b45c778a1a"
+        },
+        { "catalogId": "796", "isDefault": false, "languageCode": "en-US", "id": "303" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "651"
+    },
+    {
+      "name": "Food",
+      "isVirtual": false,
+      "outerId": "c627d6b0-fb2c-4727-92bb-48b1ff550131",
+      "defaultLanguage": {
+        "catalogId": "4d0d4088-2330-4600-a2b7-9a8ac9e2923c",
+        "isDefault": true,
+        "languageCode": "es-ES",
+        "id": "15d6012b-a6df-46fc-8ffe-845af07dd4a1"
+      },
+      "languages": [
+        {
+          "catalogId": "5cd42300-0e1a-4f21-8df4-3b2d493f8aae",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "44bbe2ca-94ef-4a39-9c51-67be60e6ab80"
+        },
+        { "catalogId": "908", "isDefault": false, "languageCode": "de-DE", "id": "368" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "656"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": false,
+      "outerId": "fa613df3-7867-464a-9d9d-9ca26fa042c7",
+      "defaultLanguage": {
+        "catalogId": "e2cd8919-b509-401a-aa2e-89e0b8ddaa7e",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "980f7308-7c1d-4a7a-8109-4d7fb496c09a"
+      },
+      "languages": [
+        {
+          "catalogId": "0bf17296-9156-412c-8ccc-ad16578ad3cf",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "050a9e29-a969-4f15-adf3-47acb5e0ce06"
+        },
+        { "catalogId": "538", "isDefault": false, "languageCode": "en-US", "id": "938" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "1000"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": true,
+      "outerId": "5b9d1882-b482-4580-873c-00e54656961e",
+      "defaultLanguage": {
+        "catalogId": "598a896e-a2f5-4c4e-becf-dbf0695c374c",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "b84b1d68-fa96-49cf-b639-501e7d0e8cb0"
+      },
+      "languages": [
+        {
+          "catalogId": "ebe63145-3637-482b-8ea2-e29b61b40d1b",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "6a2ab2dd-4d6d-4397-a88e-21e389f8670b"
+        },
+        { "catalogId": "798", "isDefault": false, "languageCode": "en-US", "id": "469" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "977"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": true,
+      "outerId": "9de9ea01-5ff3-430d-8e8e-1ac14e4d6227",
+      "defaultLanguage": {
+        "catalogId": "592085fd-6fb1-48de-8c1a-46d6d52c567a",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "7c01ada4-14de-4897-91e7-8cb6d7f356cb"
+      },
+      "languages": [
+        {
+          "catalogId": "43f57a6f-7227-42ad-a245-580565bfc42c",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "604effa7-b918-4106-8d67-d50ca5ed5e32"
+        },
+        { "catalogId": "315", "isDefault": false, "languageCode": "de-DE", "id": "379" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "55"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": false,
+      "outerId": "cd651da9-5c1f-4d79-a6f7-c6b8d5854902",
+      "defaultLanguage": {
+        "catalogId": "f04d11e2-cb39-4a88-99da-e145fa513125",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "f6b6a219-9f79-4029-af64-054f297c324b"
+      },
+      "languages": [
+        {
+          "catalogId": "b330e15b-d767-4b50-ad3d-e5c2c5addb53",
+          "isDefault": true,
+          "languageCode": "en-US",
+          "id": "75a12390-3367-4b32-ab73-1ae6daf669f4"
+        },
+        { "catalogId": "584", "isDefault": false, "languageCode": "fr-FR", "id": "733" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "318"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": false,
+      "outerId": "1b99d439-da91-496a-9734-fe3f286ae306",
+      "defaultLanguage": {
+        "catalogId": "923091da-e7b3-4790-a2ab-bd4d281fc2f6",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "01c07fe2-6a70-4961-aceb-2afd8ce0ac93"
+      },
+      "languages": [
+        {
+          "catalogId": "3b4e1f98-fad4-4587-8d4a-7b2eabf76783",
+          "isDefault": true,
+          "languageCode": "es-ES",
+          "id": "e102de36-9333-4edf-a28b-b9a258f91477"
+        },
+        { "catalogId": "15", "isDefault": false, "languageCode": "fr-FR", "id": "26" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "26"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": false,
+      "outerId": "7f3329e4-c436-4b42-b009-e7ba1f260827",
+      "defaultLanguage": {
+        "catalogId": "7cb478a8-b346-4ec6-8dee-8f5dc704f8ea",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "52ed6016-87a3-48b0-ad91-b512d1c11f8a"
+      },
+      "languages": [
+        {
+          "catalogId": "17b23305-8ec9-4c15-af8f-82be5682756c",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "46ca4d3b-c8be-40a4-bd6b-6d4abaee5e39"
+        },
+        { "catalogId": "121", "isDefault": false, "languageCode": "de-DE", "id": "52" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "129"
+    },
+    {
+      "name": "Food",
+      "isVirtual": false,
+      "outerId": "ffb6f84c-4be4-4d8e-b959-a34058677aef",
+      "defaultLanguage": {
+        "catalogId": "502617cf-95b8-440d-abbb-be6c63717173",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "ab7d7130-9b6d-4702-827f-b31cf416d336"
+      },
+      "languages": [
+        {
+          "catalogId": "e7f899eb-91c7-419b-bc5b-bbaa5d20cc7a",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "0a3f6a53-3ff1-42ae-a47a-27b7f423f39b"
+        },
+        { "catalogId": "663", "isDefault": false, "languageCode": "es-ES", "id": "75" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "192"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": true,
+      "outerId": "9b6fc3ff-e8b4-48dd-9fb3-bbf9742f2ce1",
+      "defaultLanguage": {
+        "catalogId": "15b4bbf5-c12b-4e2f-af4c-7448cbd3ff72",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "bc821d11-80d6-4798-aebc-f8d5e9adb04d"
+      },
+      "languages": [
+        {
+          "catalogId": "621d845c-a6d4-4e4d-ac09-b8490019b0f1",
+          "isDefault": true,
+          "languageCode": "fr-FR",
+          "id": "467313d7-d3ed-47be-b2c3-64615811099b"
+        },
+        { "catalogId": "317", "isDefault": false, "languageCode": "fr-FR", "id": "970" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "501"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "isVirtual": false,
+      "outerId": "96b93223-9207-4536-a395-df9beed0303c",
+      "defaultLanguage": {
+        "catalogId": "0a53fed3-5c2c-447e-9e58-6bbc44f6a8b9",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "0df217a1-ecdf-4f7c-aeba-56a12c79d595"
+      },
+      "languages": [
+        {
+          "catalogId": "4a3d5a01-ced5-4a34-beb8-dcaafccb421c",
+          "isDefault": true,
+          "languageCode": "es-ES",
+          "id": "28961f60-78bc-4063-9db2-f9f80b032ac1"
+        },
+        { "catalogId": "216", "isDefault": false, "languageCode": "en-US", "id": "58" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "214"
+    },
+    {
+      "name": "Clothing",
+      "isVirtual": false,
+      "outerId": "fc6b1cbc-f0db-4cab-b871-5723f898ad3d",
+      "defaultLanguage": {
+        "catalogId": "3837884f-f708-47fb-9b6b-a14c17bed668",
+        "isDefault": true,
+        "languageCode": "zh-CN",
+        "id": "f3e5143a-13ca-43f0-ae38-e04c9416740c"
+      },
+      "languages": [
+        {
+          "catalogId": "57fae148-2f8f-4067-b212-fbb82bcca856",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "e6241c80-f09d-45db-9741-352488d0295e"
+        },
+        { "catalogId": "563", "isDefault": false, "languageCode": "es-ES", "id": "165" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "391"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": false,
+      "outerId": "a68331df-2e30-4505-8f85-311df286c723",
+      "defaultLanguage": {
+        "catalogId": "09ebe8b9-fa19-40d9-9240-7cb99217a6b5",
+        "isDefault": true,
+        "languageCode": "en-US",
+        "id": "f9c7ef5c-64e1-46cf-bc57-82153c5336ea"
+      },
+      "languages": [
+        {
+          "catalogId": "935c6670-3a8e-42d5-a1fe-f0389145c0a0",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "ff41bce6-5083-4d2e-9143-0c9e97c3ce2a"
+        },
+        { "catalogId": "820", "isDefault": false, "languageCode": "es-ES", "id": "741" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "23"
+    },
+    {
+      "name": "Home & Garden",
+      "isVirtual": true,
+      "outerId": "065d86e2-87a0-4a09-af00-3246a982dcc2",
+      "defaultLanguage": {
+        "catalogId": "66296118-3c67-4900-ae02-ce0ccc36dd44",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "d1e58a18-acc6-4921-a1a4-5b873cf84bc1"
+      },
+      "languages": [
+        {
+          "catalogId": "36e50b49-aa58-4030-aef6-14d782420a03",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "5e33209f-eba2-4f37-89ec-22fdaa58c2e0"
+        },
+        { "catalogId": "49", "isDefault": false, "languageCode": "zh-CN", "id": "305" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "428"
+    },
+    {
+      "name": "Food",
+      "isVirtual": true,
+      "outerId": "e33a5769-0eb4-4649-ad3b-6fba5a9a1561",
+      "defaultLanguage": {
+        "catalogId": "e2db6055-8915-4564-87ff-d000031be801",
+        "isDefault": true,
+        "languageCode": "fr-FR",
+        "id": "78eebe44-300b-4de2-aeca-de3ddc3344eb"
+      },
+      "languages": [
+        {
+          "catalogId": "b3aa0879-d1a5-4c8c-a1fe-2d6a98212c00",
+          "isDefault": true,
+          "languageCode": "zh-CN",
+          "id": "4db9dfe5-282f-4957-bf2b-ec9955158b6d"
+        },
+        { "catalogId": "849", "isDefault": false, "languageCode": "en-US", "id": "70" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "913"
+    },
+    {
+      "name": "Electronics",
+      "isVirtual": false,
+      "outerId": "bff430ac-57dd-4933-8727-80569279d9f0",
+      "defaultLanguage": {
+        "catalogId": "0189a6ff-5b17-414f-a0f3-9ad285065714",
+        "isDefault": true,
+        "languageCode": "de-DE",
+        "id": "7b431960-ce6a-451c-bc23-fe6224df877f"
+      },
+      "languages": [
+        {
+          "catalogId": "b604ceb6-eab2-4440-871b-1ddd94c5bc2c",
+          "isDefault": true,
+          "languageCode": "de-DE",
+          "id": "943a0cfd-08d5-4ca2-a386-2f0772b89d44"
+        },
+        { "catalogId": "988", "isDefault": false, "languageCode": "en-US", "id": "339" }
+      ],
+      "createdDate": "2023-08-15T06:59:16.6399283Z",
+      "modifiedDate": "2023-08-15T07:57:23.2157609Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "10"
+    }
+  ]
+}

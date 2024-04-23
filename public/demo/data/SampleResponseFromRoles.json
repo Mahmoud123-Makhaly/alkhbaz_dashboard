@@ -1,0 +1,185 @@
+{
+  "totalCount": 22,
+  "results": [
+    {
+      "description": "this is catalog1",
+      "permissions": [],
+      "userRoles": null,
+      "id": "7c7a059b-2b38-4715-a1af-de9127c41d48",
+      "name": "catalo1",
+      "normalizedName": "CATALO1",
+      "concurrencyStamp": null
+    },
+    {
+      "description": "rol2",
+      "permissions": [],
+      "userRoles": null,
+      "id": "59104081-bb81-4657-a279-7d4489b53f46",
+      "name": "rol2",
+      "normalizedName": "ROL2",
+      "concurrencyStamp": "209e7c6d-5efc-48e7-856c-3123dc0fb536"
+    },
+    {
+      "description": "role1",
+      "permissions": [],
+      "userRoles": null,
+      "id": "13fb57b0-3f01-4dd3-99d8-3af3c895f6c5",
+      "name": "role1",
+      "normalizedName": "ROLE1",
+      "concurrencyStamp": "cc3df0ef-39e8-4277-a6d3-4bca6ac3c3b8"
+    },
+    {
+      "description": "role10",
+      "permissions": [],
+      "userRoles": null,
+      "id": "3a3d78fb-fa32-4eda-8f96-58107512cc0e",
+      "name": "role10",
+      "normalizedName": "ROLE10",
+      "concurrencyStamp": "f435eb78-b784-4c37-81db-34a32551c101"
+    },
+    {
+      "description": "role11",
+      "permissions": [],
+      "userRoles": null,
+      "id": "08060a1d-11ec-4edd-b2d8-2ca6f6408e36",
+      "name": "role11",
+      "normalizedName": "ROLE11",
+      "concurrencyStamp": "4281683d-b2a5-4083-9aef-ec95d6dda587"
+    },
+    {
+      "description": "role12",
+      "permissions": [],
+      "userRoles": null,
+      "id": "3074173d-6420-49eb-bb5f-228d2b4af6a7",
+      "name": "role12",
+      "normalizedName": "ROLE12",
+      "concurrencyStamp": "b275e7d1-b08e-4ada-8c94-93785387ff2c"
+    },
+    {
+      "description": "role13",
+      "permissions": [],
+      "userRoles": null,
+      "id": "1535c350-d82c-4e2c-86f8-b1a81e38daf7",
+      "name": "role13",
+      "normalizedName": "ROLE13",
+      "concurrencyStamp": "731f8616-9f9d-4766-81dc-a92e05377f41"
+    },
+    {
+      "description": "role15",
+      "permissions": [],
+      "userRoles": null,
+      "id": "a37c2bd2-445e-405f-952b-a4d44935952e",
+      "name": "role15",
+      "normalizedName": "ROLE15",
+      "concurrencyStamp": "2b44f8a7-07a6-41ff-bc7e-d7fc7191e15e"
+    },
+    {
+      "description": "role16",
+      "permissions": [],
+      "userRoles": null,
+      "id": "e0d5da81-fdd3-4863-befe-0f052aaa4276",
+      "name": "role16",
+      "normalizedName": "ROLE16",
+      "concurrencyStamp": "1d95b217-39dc-4010-91c7-0ffe11d61b82"
+    },
+    {
+      "description": "role17",
+      "permissions": [],
+      "userRoles": null,
+      "id": "93ca1b8c-f755-400f-a8a0-dc0846e3c46f",
+      "name": "role17",
+      "normalizedName": "ROLE17",
+      "concurrencyStamp": "f2fdaac1-acd4-4bec-9111-d079941fc10f"
+    },
+    {
+      "description": "role18",
+      "permissions": [],
+      "userRoles": null,
+      "id": "47f06a51-d888-4d25-a0d4-2e4a6dddfa9c",
+      "name": "role18",
+      "normalizedName": "ROLE18",
+      "concurrencyStamp": "326bc146-a835-4ce6-9cdc-08c267a20743"
+    },
+    {
+      "description": "role19",
+      "permissions": [],
+      "userRoles": null,
+      "id": "6fdbfcdd-7a5d-40cf-b3ae-bad45ab44017",
+      "name": "role19",
+      "normalizedName": "ROLE19",
+      "concurrencyStamp": "c34b44a0-7ea5-45e2-9818-96d7b8932629"
+    },
+    {
+      "description": "role20",
+      "permissions": [],
+      "userRoles": null,
+      "id": "6f202635-f9ed-47a3-b78b-1b900155bf84",
+      "name": "role20",
+      "normalizedName": "ROLE20",
+      "concurrencyStamp": "ee7aca1e-182a-442f-80fe-66568b1a4fc9"
+    },
+    {
+      "description": "role21",
+      "permissions": [],
+      "userRoles": null,
+      "id": "9f787461-b9ce-424d-a8ff-458a8945275a",
+      "name": "role21",
+      "normalizedName": "ROLE21",
+      "concurrencyStamp": "a581b070-9f03-4c09-bdb5-28b6060db08f"
+    },
+    {
+      "description": "role22",
+      "permissions": [],
+      "userRoles": null,
+      "id": "aa2b1608-5a61-4fec-b19e-17a4afffb09d",
+      "name": "role22",
+      "normalizedName": "ROLE22",
+      "concurrencyStamp": "ea8ef22a-02ac-4ec5-ac11-3686bc946206"
+    },
+    {
+      "description": "role23",
+      "permissions": [],
+      "userRoles": null,
+      "id": "93d4cd97-2495-4a6f-bef8-135bfca717d2",
+      "name": "role23",
+      "normalizedName": "ROLE23",
+      "concurrencyStamp": "78bf5d59-4417-4939-ba83-a3db7a0eb96e"
+    },
+    {
+      "description": "role3",
+      "permissions": [],
+      "userRoles": null,
+      "id": "1e009e16-d008-4390-952a-70588237537e",
+      "name": "role3",
+      "normalizedName": "ROLE3",
+      "concurrencyStamp": "283624be-0d83-438c-9a27-ecf71c66c172"
+    },
+    {
+      "description": "role4",
+      "permissions": [],
+      "userRoles": null,
+      "id": "166f5113-d6f1-4fc3-b55a-14b20fbbb598",
+      "name": "role4",
+      "normalizedName": "ROLE4",
+      "concurrencyStamp": "ff1dfc02-5b1a-4d3d-ad1e-d2bd2697a49d"
+    },
+    {
+      "description": "role7",
+      "permissions": [],
+      "userRoles": null,
+      "id": "cc4734f0-30d8-4fa4-951b-3fc8401681e9",
+      "name": "role7",
+      "normalizedName": "ROLE7",
+      "concurrencyStamp": "60182824-5b00-4ae3-9f35-d7f8a67abbe0"
+    },
+    {
+      "description": "role7",
+      "permissions": [],
+      "userRoles": null,
+      "id": "ad45bf7c-5b36-443a-9554-506ae09099e2",
+      "name": "role8",
+      "normalizedName": "ROLE8",
+      "concurrencyStamp": "c4ef4dad-b882-4485-a808-546e8491a75b"
+    }
+  ]
+}

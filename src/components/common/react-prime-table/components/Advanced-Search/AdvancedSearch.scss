@@ -1,0 +1,31 @@
+.as-form-container {
+  border: 1px solid var(--vz-gray-100);
+}
+
+.as-container {
+  .as-form-col {
+    width: 250px;
+  }
+
+  .as-table-container {
+    width: calc(100% - 250px);
+  }
+
+  &.collapsed {
+    .as-form-col {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .as-form-col,
+    .as-table-container {
+      width: 100%;
+    }
+
+    .as-form-col,
+    .as-form-container {
+      height: auto !important;
+    }
+  }
+}

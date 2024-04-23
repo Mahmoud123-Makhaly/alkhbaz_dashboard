@@ -1,0 +1,7 @@
+.disabled:has(button.btn-success){
+  opacity: 0.95 !important;
+}
+.btn-success{
+background-color: #0ab39c !important;
+  border-color: #0ab39c !important;
+}

@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  al-khbaz-dashboard-env-testing:
+    build:
+      context: ../../
+      dockerfile: docker/testing/Dockerfile
+    image: al-khbaz-dashboard-env-testing
+    environment:
+      - NEXTAUTH_SECRET=$NEXT_AUTH_SECRET
+      - NEXTAUTH_URL=$ALKHBAZ_DASHBOARED_TESTING_NEXT_AUTH_URL
+    ports:
+      - ${ALKHBAZ_DASHBOARED_TESTING_EXPOSED_PORT}:8090

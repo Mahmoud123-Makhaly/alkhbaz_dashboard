@@ -1,0 +1,19 @@
+.placeholder-file-manager-record{
+  min-height: 1rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    background-color: var(--vz-gray-400);
+}
+
+.placeholder-file-manager-btn{
+  min-height: 2rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    background-color: var(--vz-gray-400);
+}
+.placeholder-file-manager-card{
+  min-height: 195px;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    background-color: var(--vz-gray-400);
+}

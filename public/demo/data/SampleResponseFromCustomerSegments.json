@@ -1,0 +1,74 @@
+{
+  "totalCount": 1,
+  "results": [
+    {
+      "name": "seg1",
+      "description": "desc1",
+      "userGroup": "Wholesaler",
+      "isActive": true,
+      "startDate": "2023-08-08T21:00:00Z",
+      "endDate": "2023-08-02T21:00:00Z",
+      "storeIds": [],
+      "expressionTree": {
+        "all": true,
+        "not": false,
+        "id": "CustomerSegmentTree",
+        "availableChildren": [],
+        "children": [
+          {
+            "all": true,
+            "not": false,
+            "id": "BlockCustomerSegmentRule",
+            "availableChildren": [
+              {
+                "salutation": null,
+                "fullName": null,
+                "firstName": null,
+                "middleName": null,
+                "lastName": null,
+                "birthDate": null,
+                "defaultLanguage": null,
+                "timeZone": null,
+                "taxPayerId": null,
+                "preferredDelivery": null,
+                "preferredCommunication": null,
+                "organizations": [],
+                "associatedOrganizations": [],
+                "properties": [],
+                "id": "CustomerSegmentConditionPropertyValues",
+                "availableChildren": [],
+                "children": []
+              }
+            ],
+            "children": [
+              {
+                "salutation": null,
+                "fullName": null,
+                "firstName": null,
+                "middleName": null,
+                "lastName": null,
+                "birthDate": "2023-07-31T21:00:00Z",
+                "defaultLanguage": null,
+                "timeZone": null,
+                "taxPayerId": null,
+                "preferredDelivery": null,
+                "preferredCommunication": null,
+                "organizations": [],
+                "associatedOrganizations": [],
+                "properties": [],
+                "id": "CustomerSegmentConditionPropertyValues",
+                "availableChildren": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      "createdDate": "2023-08-30T14:15:21.8069475Z",
+      "modifiedDate": "2023-08-30T14:15:21.8069475Z",
+      "createdBy": "admin",
+      "modifiedBy": "admin",
+      "id": "3ce4dd90-7171-4d86-be1b-1916539a2e7e"
+    }
+  ]
+}

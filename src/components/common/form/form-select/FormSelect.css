@@ -1,0 +1,3 @@
+.app-form-select [class$="-menu"]{
+  z-index: 100 !important;
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "img": "/imgs/integrations/stores.png",
+    "endpoint": "integration/getstores",
+    "label": { "en": "Stores", "ar": "متاجر" },
+    "successMsgs": { "en": "({count}) Stores Synced Successfully.", "ar": "تمت مزامنة ({count}) متجر بنجاح." },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "2",
+    "img": "/imgs/integrations/stocks.png",
+    "endpoint": "integration/getstock",
+    "label": { "en": "Stocks", "ar": "مخازن" },
+    "successMsgs": { "en": "({count}) Stocks Synced Successfully.", "ar": "تمت مزامنة ({count}) مخزن بنجاح." },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "3",
+    "img": "/imgs/integrations/categories.png",
+    "endpoint": "integration/getcategories",
+    "label": { "en": "Products Categories", "ar": "فئات المنتجات" },
+    "successMsgs": {
+      "en": "({count}) Products Categories Synced Successfully.",
+      "ar": "تمت مزامنة ({count}) فئة بنجاح."
+    },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "4",
+    "img": "/imgs/integrations/products.png",
+    "endpoint": "integration/getproducts",
+    "label": { "en": "Products", "ar": "منتجات" },
+    "successMsgs": { "en": "({count}) Products Synced Successfully.", "ar": "تمت مزامنة ({count}) منتج بنجاح." },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "5",
+    "img": "/imgs/integrations/skus.png",
+    "endpoint": "integration/getproductskus",
+    "label": { "en": "Product SKUS", "ar": "رمز المنتج" },
+    "successMsgs": {
+      "en": "({count}) Product SKUS Synced Successfully.",
+      "ar": "تمت مزامنة ({count}) رمز منتج بنجاح."
+    },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "6",
+    "img": "/imgs/integrations/prices.png",
+    "endpoint": "integration/getprices",
+    "label": { "en": "Products Prices", "ar": "أسعار المنتجات" },
+    "successMsgs": {
+      "en": "({count}) Products Prices Synced Successfully.",
+      "ar": "تمت مزامنة ({count}) سعر منتج بنجاح."
+    },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "7",
+    "img": "/imgs/integrations/orders.png",
+    "endpoint": "integration/getorders",
+    "label": { "en": "Orders", "ar": "الطلبات" },
+    "successMsgs": {
+      "en": "({count}) Orders Synced Successfully.",
+      "ar": "تمت مزامنة ({count}) طلبات بنجاح."
+    },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  },
+  {
+    "id": "8",
+    "img": "/imgs/integrations/customers.png",
+    "endpoint": "integration/pricelists",
+    "label": { "en": "Customers", "ar": "العملاء" },
+    "successMsgs": {
+      "en": "({count}) Customers Synced Successfully.",
+      "ar": "تمت مزامنة ({count}) عملاء بنجاح."
+    },
+    "failedMsgs": { "en": "Sync failed, please try again.", "ar": "فشلت المزامنة، يرجى المحاولة مرة أخرى." }
+  }
+]

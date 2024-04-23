@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "downlevelIteration": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@app/hooks": ["./src/hooks/index"],
+      "@components/*": ["./src/components/*"],
+      "@helpers/*": ["./src/helpers/*"],
+      "@slices/reducers": ["./src/slices/index"],
+      "@slices/thunks": ["./src/slices/thunks"],
+      "@assets/img/*": ["./src/assets/images/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@app/libs": ["./src/libs/index"],
+      "@app/services": ["./src/services/"],
+      "@app/types": ["./types/index"]
+    },
+    "strict": false,
+    "strictNullChecks": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/slices/apiKey/reducer.js"],
+  "exclude": ["node_modules"]
+}

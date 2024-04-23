@@ -1,0 +1,40 @@
+[
+  {
+    "itHasValues": true,
+    "objectId": null,
+    "objectType": null,
+    "isReadOnly": false,
+    "value": null,
+    "id": "ae642599-86b1-440e-b332-d42b224c19ca",
+    "restartRequired": false,
+    "moduleId": "VirtoCommerce.Tax",
+    "groupName": "Tax|General",
+    "name": "VirtoCommerce.Core.General.TaxTypes",
+    "displayName": null,
+    "isRequired": false,
+    "isHidden": false,
+    "valueType": "ShortText",
+    "allowedValues": ["10%"],
+    "defaultValue": null,
+    "isDictionary": true
+  },
+  {
+    "itHasValues": true,
+    "objectId": null,
+    "objectType": null,
+    "isReadOnly": false,
+    "value": null,
+    "id": "ae642599-86b1-440e-b332-d42b224c19bb",
+    "restartRequired": false,
+    "moduleId": "VirtoCommerce.Tax",
+    "groupName": "Tax|General",
+    "name": "VirtoCommerce.Core.General.TaxTypes",
+    "displayName": null,
+    "isRequired": false,
+    "isHidden": false,
+    "valueType": "ShortText",
+    "allowedValues": ["5%"],
+    "defaultValue": null,
+    "isDictionary": true
+  }
+]
